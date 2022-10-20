@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://www.seed.nsw.gov.au/need-help -->
+<html lang="en" dir="ltr" class=" js">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="icon" href="files/favicon.ico" type="image/vnd.microsoft.icon">
+		<title>User Guide | Data.gov.au</title>
+		<link rel="stylesheet" media="all" href="files/css/base.css">
+	</head>
+	<body>
+		<a href="#main-content" class="visually-hidden focusable">
+		Skip to main content
+		</a>
+		<div class="page">
+			<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+				<header class="global">
+					<div id="block-headernavigation" class="global__secondary section--top-xs section--bottom-xs section">
+						<div class="section__content">
+							<nav class="nav nav--inline global__secondary__nav" role="navigation" aria-label="Header navigation">
+								<ul>
+									<li>
+										<a href="https://www.data.gov.au/" class="active">Data.gov.au</a>
+									</li>
+									<li>
+										<a href="https://www.data.gov.au/page/privacy-policy/">Privacy Policy</a>
+									</li>
+									<li>
+										<a href="mailto:support@data.gov.au">Contact Us</a>
+									</li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+					<div id="block-mainnavigation" class="section global__primary">
+						<div class="section__content">
+							<div class="logo">
+								<a class="logo__image" href="https://data.gov.au/"><img alt="Data.gov.au" src="files/logo.svg"></a>
+								<span class="logo__text">
+								 Data.gov.au 	
+								<span class="logo__sub-text">User Guide</span>
+								</span>
+							</div>
+						</div>
+					</div>
+				</header>
+				<section class="section">
+					<div class="section__content">
+						<nav class="nav nav--inline nav--breadcrumb ">
+							<ul>
+								<li><a href="https://www.data.gov.au/">Home</a></li>
+								<li class="active">User Guide</li>
+							</ul>
+						</nav>
+					</div>
+				</section>
+				<a id="main-content" tabindex="-1"></a>
+				<main>
+					<div id="block-content">
+						<article role="article">
+							<div>
+								<div class="page__middle--contained page__middle">
+									<div>
+										<div>
+											<h2>Data.gov.au User Guide</h2>
+											<!-- <div class="section"> to the closing </div> is a tile group with heading -->
+											<div class="section">
+												<h3>Getting Started </h3>
+												<div class="section__content grid">
+													<!-- <div class="tile grid--4-col> to the closing </div> is an individual tile.
+													     can increase or decrease width by changing the number in grid--X-col. -->
+													<div class="tile grid--4-col">
+														<a href="getting-started/creating-an-account.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Creating an Account</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="getting-started/managing-your-organisation.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Managing your Organisation</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="getting-started/enabling-accessible-open-data.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Enabling Accessible Open Data</h4>			
+													</div>
+													<!-- More tiles go here -->
+													
+												</div>				
+											</div>	
+											<!-- More tile groups with heading sections go here -->
+											<div class="section">
+												<h3>Publishing Data </h3>
+												<div class="section__content grid">
+													<!-- <div class="tile grid--4-col> to the closing </div> is an individual tile.
+													     can increase or decrease width by changing the number in grid--X-col. -->
+													<div class="tile grid--4-col">
+														<a href="publishing-data/manual-publishing.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Manual Publishing</h4>							
+													</div>
+													<div class="tile grid--4-col">
+														<a href="publishing-data/automated-publishing.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Automated Publishing</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="publishing-data/updating-a-dataset.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Updating a Dataset</h4>
+													</div>
+													<!-- More tiles go here -->
+													<div class="tile grid--4-col">
+														<a href="publishing-data/recommended-data-formats.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Recommended Data Formats</h4>
+													</div>
+												</div>
+											</div>
+											<div class="section">
+												<h3>Using Data.gov.au</h3>
+												<div class="section__content grid">
+													<!-- <div class="tile grid--4-col> to the closing </div> is an individual tile.
+													     can increase or decrease width by changing the number in grid--X-col. -->
+													<div class="tile grid--4-col">
+														<a href="using-data-gov-au/searching-for-data.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Searching for Data</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="using-data-gov-au/contacting-the-data-owner.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Contacting the Data Custodian</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="using-data-gov-au/support.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Support</h4>
+													</div>
+													<!-- More tiles go here -->
+												</div>
+											</div>
+											<div class="section">
+												<h3>Data Integration</h3>
+												<div class="section__content grid">
+													<!-- <div class="tile grid--4-col> to the closing </div> is an individual tile.
+													     can increase or decrease width by changing the number in grid--X-col. -->
+													<div class="tile grid--4-col">
+														<a href="data-integration/statistical-data-integration.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Statistical Data Integration</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="data-integration/risk/index.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Risk</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="data-integration/statistical-data-integration-framework.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Statistical Data Integration Framework</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="data-integration/roles-and-responsibilities.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Roles and Responsibilities</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="data-integration/accreditation.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>Accreditation</h4>
+													</div>
+													<div class="tile grid--4-col">
+														<a href="data-integration/data-integration-projects/index.html" class="tile__link-cover" hreflang="en"></a>
+														<h4>A Guide to Data Integration Projects Involving Commonwealth Data for Statistical and Research Purposes</h4>
+													</div>
+													<!-- More tiles go here -->
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</article>
+					</div>
+					<div class="feedback">
+						<p>Was this page helpful?<br /><a href="">Send in feedback to help us improve</a></p>
+					</div>
+				</main>
+				<div class="back-to-top"><a class="back-to-top__button button button--primary button--icon-only icon--arrow-up" href="#">Back to the top</a></div>
+				<footer class="global__footer section section--top-l">
+					<div class="section__content">
+						<div id="block-footer" class="global__footer__navigation section--bottom-xl">
+							<nav class="nav " role="navigation" aria-label="Footer">
+								<ul>
+									<li>
+										<a href="https://www.data.gov.au/page/about">About</a>
+									</li>
+									<li>
+										<a href="https://www.data.gov.au/page/privacy-policy/">Privacy Policy</a>
+									</li>
+									<li>
+										<a href="https://www.data.gov.au/page/recent-developments">Recent Developments</a>
+									</li>
+									<li>
+										<a href="mailto:support@data.gov.au">Contact Us</a>
+									</li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+				</footer>
+			</div>
+		</div>
+	</body>
+</html>                         
