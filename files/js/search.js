@@ -66,7 +66,6 @@
 					sResults += '</div>';
 				}
 			}
-			sResultsDiv += '<div id="block-content">';
 			sResultsDiv += '<section class="section section--top-s section--bottom-s">';
 			sResultsDiv += '<div class="section__content">' + resultCount + ' results found for <strong>' + searchTerm + '</strong></div>';
 			sResultsDiv += '</section>';
@@ -90,7 +89,7 @@
 		//	sResultsDiv += '<section class="section section--top-s section--bottom-s"><div class="section__content">Sorry, there are no results for your search <i>' + searchTerm + '</i>. Try a different search term.</div></section><div class="page__middle page__middle--contained grid divider--top">';
 		//}
 	} else {
-		sResultsDiv += '<div id="block-content"><div class="views-element-container"><section class="section section--top-s section--bottom-s"><div class="section__content"> 0 results</div></section><div class="page__middle page__middle--contained grid divider--top"><div class="page__sections grid__col grid--9-col"><div class="section section--bottom-m"><div class="section__content"><h2 class="text--primary">No terms searched.</h2><p class="text--xl">Try entering a term and clicking search.</p></div></div></div>' + sSidebar + '</div></div></div>';
+		sResultsDiv += '<div id="block-content"><div class="views-element-container"><section class="section section--top-s section--bottom-s"><div class="section__content"> 0 results</div></section><div class="page__middle page__middle--contained grid divider--top"><div class="page__sections grid__col grid--9-col"><div class="section section--bottom-m"><div class="section__content"><h2>No terms searched.</h2><p class="text--xl">Try entering a term and clicking search.</p></div></div></div>' + sSidebar + '</div></div></div>';
 	}
 	searchResults.innerHTML = sResultsDiv;
 })();
